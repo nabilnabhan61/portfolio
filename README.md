@@ -34,6 +34,8 @@ A Django-based portfolio website featuring a professional CV, current work showc
 4.  Install dependencies:
     ```bash
     pip install -r requirements.txt
+    //if pillow gives error try: python -m pip install pillow
+    
     ```
 
 5.  Create migration files:
